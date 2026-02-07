@@ -1,18 +1,18 @@
+<br>
 <p align="center">
-   <h1>Hi, I'm Pinggu</h1>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=88CC14&width=435&height=25&lines=Access+granted%2C+welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
-
-<br/>
-
-<div align="left">
+<div align="center">
   <a href="https://tryhackme.com/p/pinggu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
 </div>
 
+---
+
 <br/>
 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <p style="font-size: 22px; font-weight: bold">🛠️ My Favorite Tools</p>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -40,16 +40,18 @@
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+  ---
  
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <p style="font-size: 22px; font-weight: bold">📊 Stats and Activity</p>
   <h3>🔥 Streak Stats</h3>
 
   <p>
-      <img alt="pinggu0x's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=gruvbox&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D"/>
+      <img alt="pinggu0x's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=merko&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&title_color=F85D7F&icon_color=F1B23C" height="192px"/>
+  <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=merko&hide_border=true&title_color=F85D7F&icon_color=F1B23C" height="192px"/>
   
-  <img alt="pinggu0x's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=282828&color=&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
+  <img alt="pinggu0x's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=0D1117&color=88CC14&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
