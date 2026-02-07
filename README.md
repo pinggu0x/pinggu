@@ -47,7 +47,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <p>
-      <img src="https://streak-stats.demolab.com?user=pinggu0x&theme=merko&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&background=00000000" alt="GitHub Streak" />
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=merko&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&background=00000000"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
