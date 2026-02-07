@@ -50,7 +50,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <p>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pinggu0x's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pinggu0x's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=gruvbox&hide_border=true&short_numbers=true"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
