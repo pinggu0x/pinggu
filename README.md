@@ -47,11 +47,11 @@
   <h3>🔥 Streak Stats</h3>
 
   <p>
-      <img alt="pinggu0x's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=merko&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D"/>
+      <img src="https://streak-stats.demolab.com?user=pinggu0x&theme=merko&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&background=00000000" alt="GitHub Streak" />
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=merko&hide_border=true&title_color=F85D7F&icon_color=F1B23C" height="192px"/>
+  <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=00000000&title_color=ABD200&icon_color=F1B23C" height="192px"/>
   
-  <img alt="pinggu0x's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=0D1117&color=88CC14&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
+  <img alt="pinggu0x's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=00000000&color=ABD200&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
