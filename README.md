@@ -52,8 +52,8 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <img alt="pinggu0x's Top Languages" width=390 src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&title_color=F85D7F&icon_color=F1B23C" height="192px"/>
+  <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&title_color=F85D7F&icon_color=F1B23C" height="192px" width="50%"/>
   
   <br/>
 
-  <img alt="pinggu0x's Activity Graph" width=390 src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=282828&color=&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  <img alt="pinggu0x's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pinggu0x&bg_color=282828&color=&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
