@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=88CC14&width=435&height=30&lines=Access+granted%2C+welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
 <div align="center">
-  <a href="https://tryhackme.com/p/pinggu" target="_blank">
+  <a href="https://tryhackme.com/p/pinggu0x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
 </div>
