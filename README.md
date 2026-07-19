@@ -45,12 +45,6 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-  ---
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <img alt="pinggu0x's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pinggu0x&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=00000000&title_color=ABD200&icon_color=F1B23C" height="192px"/>
-  
   <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   </p>
