@@ -18,7 +18,7 @@
 
 ---
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>Programming and Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -29,7 +29,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>Software and Tools</h3>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -46,12 +46,6 @@
   </p>
 
   ---
-  
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pinggu0x&theme=merko&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&background=00000000" width="70%"/>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
